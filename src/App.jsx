@@ -1,4 +1,5 @@
 import { Faq, Features, Header, Hero, Pricing } from "./sections";
+import Testimonials from "./sections/Testimonials";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <Features />
       <Pricing />
       <Faq />
+      <Testimonials />
     </main>
   );
 }
