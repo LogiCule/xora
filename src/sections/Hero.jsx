@@ -18,7 +18,7 @@ const Hero = () => {
               learn, and surprisingly powerful
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/public/images/zap.svg">Try it now!</Button>
+              <Button icon="/images/zap.svg">Try it now!</Button>
             </LinkScroll>
           </div>
           <div className="absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res">
