@@ -37,14 +37,14 @@ const Pricing = () => {
             </div>
             <div className="pricing-bg">
               <img
-                src="/public/images/bg-outlines.svg"
+                src="/images/bg-outlines.svg"
                 width={960}
                 height={380}
                 alt="outline"
                 className="relative z-2"
               />
               <img
-                src="/public/images/bg-outlines-fill.png"
+                src="/images/bg-outlines-fill.png"
                 width={960}
                 height={380}
                 alt="outline"

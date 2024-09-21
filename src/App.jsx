@@ -1,4 +1,4 @@
-import { Faq, Features, Header, Hero, Pricing } from "./sections";
+import { Download, Faq, Features, Header, Hero, Pricing } from "./sections";
 import Testimonials from "./sections/Testimonials";
 
 function App() {
@@ -10,6 +10,7 @@ function App() {
       <Pricing />
       <Faq />
       <Testimonials />
+      <Download />
     </main>
   );
 }
