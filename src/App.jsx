@@ -1,4 +1,4 @@
-import { Features, Header, Hero, Pricing } from "./sections";
+import { Faq, Features, Header, Hero, Pricing } from "./sections";
 
 function App() {
   return (
@@ -7,6 +7,7 @@ function App() {
       <Hero />
       <Features />
       <Pricing />
+      <Faq />
     </main>
   );
 }
